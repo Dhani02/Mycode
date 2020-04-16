@@ -1,0 +1,2 @@
+# Mycode
+Learning C,Python
